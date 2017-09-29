@@ -2,4 +2,5 @@
 
 習題    | 連結
 --------|----------------
-1       | [file](file.md)
+diff    | [game_old.js](game_old.js)
+        | [game_new.js](game_new.js)
